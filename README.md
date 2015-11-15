@@ -2,7 +2,7 @@
 Android实现跑马灯效果
 
 # XML文件 
-    <com.nick.demo.view.MarqueeTextView
+  <com.nick.demo.view.MarqueeTextView
 	android:layout_width="wrap_content"
 	android:layout_height="wrap_content"
 	android:layout_centerVertical="true"
