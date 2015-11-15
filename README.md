@@ -13,8 +13,8 @@ Android实现跑马灯效果
 	android:textColor="@android:color/darker_gray"
 	android:textSize="15sp" />
 
-＃说明
+# 说明
 		    
- android:ellipsize="marquee"  跑马灯
- android:marqueeRepeatLimit="marquee_forever" 设置重复滚动的次数
+ android:ellipsize="marquee"  跑马灯  
+ android:marqueeRepeatLimit="marquee_forever" 设置重复滚动的次数  
  android:singleLine="true"  单行显示
