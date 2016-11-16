@@ -1,6 +1,8 @@
 # MarqueeTextView
 Android实现跑马灯效果
 
+![image](https://github.com/zhangxiaofan918/MarqueeTextView/blob/master/Images/device-2016-11-16-210740-37911618.gif)
+
 # XML文件 
     <com.nick.demo.view.MarqueeTextView
 		android:layout_width="wrap_content"
@@ -13,10 +15,8 @@ Android实现跑马灯效果
 		android:textColor="@android:color/darker_gray"
 		android:textSize="15sp" />
 
-# 使用说明
-
- 把MarqueeTextView.java文件copy到你的工程里，然后在布局中引用这个自定义控件就行了。
-
+# 说明
+		    
  android:ellipsize="marquee"  跑马灯  
  android:marqueeRepeatLimit="marquee_forever" 设置重复滚动的次数  
  android:singleLine="true"  单行显示
