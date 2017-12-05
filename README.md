@@ -24,4 +24,4 @@ Android实现跑马灯效果
  
 ### 效果图
 
-<img width="350" height="622" src="https://github.com/zhangxiaofan918/MarqueeTextView/blob/master/Images/device-2016-11-16-210740.gif"/>
+<img width="200" height="355" src="https://github.com/zhangxiaofan918/MarqueeTextView/blob/master/Images/device-2016-11-16-210740.gif"/>
